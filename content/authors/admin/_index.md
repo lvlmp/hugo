@@ -21,7 +21,7 @@ role: Technical writer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Networking Solutions
+  - name: Network Solutions
     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
